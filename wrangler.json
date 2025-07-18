@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "hello1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9ece60a6-beff-43a9-ab96-b35c609e16f5",
+      "database_name": "1234"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
